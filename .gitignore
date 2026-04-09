@@ -1,6 +1,27 @@
-__pycache__/
-*.py[cod]
-.sessions/
-sessions/
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
 *.log
+
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.cache
+
+session_b64.txt
+sessions/
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
